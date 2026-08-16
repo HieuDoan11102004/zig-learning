@@ -1,9 +1,4 @@
-/.zig-cache/
-/zig-out/
-/answers/
-/patches/healed/
-/output/
+.omc/
+.zig-cache/
+zig-out/
 .progress.txt
-
-# Leave this in here for older zig versions
-/zig-cache/
